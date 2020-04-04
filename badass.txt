@@ -1,0 +1,65 @@
+1. Build a badass project
+  I'm not talking about a Trello-clone or another CRUD app. Everyone has those in their portfolios. I'm talking about something that takes serious research and shows off your technical prowess.
+
+  For Nitin, Elise, and myself, that was Conclave. We built Conclave as part of the Launch School Capstone Program during the fall of 2017.
+
+  It is badass. It also took a lot of work.
+
+  We spent hundreds of hours over several weeks researching and building Conclave. This involved reading while-papers, sifting through open-source code and conflict-resolution algorithms for decentralized systems.
+  
+  This may sound like a lot, but it was crucial.
+  
+  If your dream company is a big-game tech giant, you are going to have a lot of competition with CS graduates. While we non-traditional folks cannot compete with their pedigree, we can beat them in applied experience.
+  
+  Even if you do not want to work for one of the Big Four, a badass project is important. Every interviewer will ask about your recent projects and biggest challenges.
+ 
+  Showing that you have tackled interesting problems. Such as concurrency and scaling, will make you shine.
+
+1. Xây dựng một dự án badass
+  Tôi không nói về một Trello-clone hoặc một ứng dụng CRUD khác. Mọi người đều có những người trong danh mục đầu tư của họ. Tôi nói về thứ gì đó cần sự nghiên cứu nghiêm túc và thể hiện được năng lực kĩ thuật của bạn.
+
+  Đối với Nitin, Elise, và tôi, đó là Conclave. Chúng tôi xây dựng Conclave như một phần của chương trình khai trương trường học Capstone trong mùa thu năm 2017.
+
+  Thật là đen. Nó làm mất rất nhiều công sức.
+  	
+  Chúng tôi đã dùng dàng trăm giờ trong vài tuần nghiên cứu và xây dựng Conclave. Điều này liên quan đến việc đọc các tờ giấy trắng, sàng lọc thông qua mã nguồng mở, và triển khai các cấu trúc dữ liệu tùy chỉnh. Chúng tôi thậm chí đã phải giải quyết các thuật toán đồng thuận và giải quyết xung đột của riêng nó cho các hệ thống phi tập trung.
+
+  Nghe có vẻ rất nhiều, nhưng nó rất quan trọng.
+
+  Nếu công ty ước mơ của bạn là một gã khổng lồ công nghệ lớn, bạn sẽ có rất nhiều sự cạnh tranh với những sinh viên tốt nghiệp CS. Mặc dù chúng tôi những người không truyền thống không thể cạnh tranh với thế hệ của họ, chúng tôi có thể đánh bại họ trong kinh nghiệm áp dụng.
+
+  Ngay cả khi bạn không muốn làm việc cho một trong Big Four, một dự án badass rất quan trọng. Mỗi người phỏng vấn sẽ hỏi về các dự án gần đây của bạn và những thách thức lớn nhất.
+
+  Cho thất rằng bạn đã giải quyết những vấn đề thú vị, chẳng hạn như đồng thời và nhân rộng, sẽ khiến bạn tỏa sáng
+
+
+<từ mới>
+badass: xấu
+portfolios: danh mục đầu tư;
+serious: nghiêm túc, trầm trọng;
+research: sự nghiên cứu; 
+prowess: kĩ năng, sự thành thạo;
+Conclave: hội nghị, buổi họp kín;
+several: một vài;
+involved: liên lụy liên quan;
+sift: sàng lọc;
+open-source code: mã nguồn mở;
+consensus: sự nhất trị đồng thuận;
+conflict-resolution: giải quyết xùng đột;
+implement: thực thi;
+data-structures: cấu trúc dữ liệu;
+decentralize: sự phân quyền;
+crucial: yếu tố quyết định, quan trọng;
+competition: cạnh tranh;
+graduates: sinh viên tốt nghiệp, thi đậu;
+beat: tiết tấu, đánh bại;
+non-traditional: không truyền thống;
+pedigree: thế hệ , phả hệ;
+applied: áp dụng;
+experience: king nghiệm;
+interviewer: phỏng vấn, người phỏng vấn;
+recent: gần đây;
+challenge: thách thức;
+tackle: xử lý giải quyết; 
+concurrency: đồng thời;
+scale: tỷ lệ , quy mô, nhân rộng;
