@@ -1,0 +1,22 @@
+Dynamic Programming
+
+ Dynamic programming is a powerful technique for solving problems that might otherwise appear to be extremely difficult to solve in polynomial time. Algorithms built on the dynamic programming paradigm are used in many areas of CS, including many examples in AI (from solving planning problems to voice recognition).
+ Quy hoạch động là một kỹ thuật tốt để giải quyết các vấn đề có thể cực kỳ khó giải quyết trong thời gian cho phép. Các thuật toán xây dừng trên mô hình quy hoạch động được sử dụng trong nhiều lĩnh vực của CS, bao gồm nhiều ví dụ về AI (từ giải quyết các vấn đề lập kế hoạch cho đến nhận dạng giọng nói).
+
+ Dynamic programming works by sloving subproblems and using the results of those subproblems to more quickly calculate the solution to a larger problem. Unlike the divide-and-conquer paradigm (which also uses the idea of solving subpeoblems), dynamic programming typically involves solbing all possible subproblems rather than a small portion.
+ Quy hoạch động hoạt động bằng cách giải các bài toán con và sử dụng kết quả của bài toán con đó để tính toán nhanh hơn giải pháp cho một vấn đề lớn hơn. Không giống như mô hình chia để trị (cũng sử dụng các bài toán con), quy hoạch động thường bao gồm việc giải tất cả bài toán con có thể thay thế vì một phần nhỏ.
+
+ Often, dynamic programming algorithms are visualized as "filling an array" where each element of the array is the result of a subproblem that can later be reused rather than recalculated. One way of calculating Fibonacci numbers is to use the fact that...
+ Thông thường, các thuật toán quy hoạch động được hình dung là "lấp đầy một mảng" trong đó mỗi phần tử của mảng là kết quả của một bài toán con mà sau này có thể được sử dụng lại thay vì tình toán lại. Một cách tính các số trong dãy Fibonacci là cách sử dụng thực tế là...
+
+Dynamic Programming: Quy hoạch động;
+Technique: Kĩ thuật;
+solve: thanh toán , giải quyết;
+might: có thể;
+appear: xuất hiện, xuất bản; 
+paradigm: mô hình;
+polynomial time: thời gian thực hiện;
+subproblems: bài toán con;
+result: kết quả;
+divide-and-conquer: chia để trị;
+visualized: gợi lại, hình dung;
