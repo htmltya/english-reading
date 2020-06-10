@@ -1,0 +1,27 @@
+woman: Wait. I thought you were just walking through the hotel to go outside and get something to eat.
+       Why are we stopping at these slot machines? Are you going to gamble?
+       -Đợi đã. Em nghĩ anh chỉ cần đi bộ qua khách sạn để ra ngoài và kiếm cái gì ăn.
+       -Tại sao a lại dừng lại ở máy đán bạc ? Anh định đánh bạc à ?
+man:   What? Who me? Hey, I’ll meet you back at the conference room with the rest (of the people).
+       -Cái gì? Nói anh ? Này, anh sẽ gặp em tại phòng họp với những người còn lại.
+woman: Uh, no. I’m staying right with you. Does your Sara know about this?
+       -uh, không được. Em phải ở lại với anh. Sara của anh có biết cái này không ?
+man:   About what? I just have some change in my pocket, and I thought I’d get rid of it.
+       See, look. I have about five bucks or so. Hey, and besides, your wife doesn’t need to know about everything you do, does she?
+       - Về cái gì ? Anh chỉ  muốn thay đổi mấy cái đồng xu trong cái túi của anh thôi, và anh nghĩ anh sẽ cho chúng thoát khỏi túi.
+       -Xem này, nhìn đi. anh vừa có 5 dola hoặc hơn đấy. Này, vả lại, vợ anh không cần biết về mọi thứ anh làm, phải không nhỉ?
+woman: Uh, no. This is different. You lost about $1,500 the last time we came here, and wait, why are you taking out your credit card?
+       -Ừ, không. Cái này khác. Anh đã làm mất khoảng 1.500 dola trong lần cuối cùng chúng ta đến đây, mà đợi đã, tại sao anh rút thẻ tín dụng của anh ?
+man:   What? Oh this? I’m just going to buy a sandwich.
+       -Cái gì? à cái này ? anh chỉ mua một cái bánh kẹp thôi
+woman: Oh, no. Give me that.
+       Ồ, không . Đưa cho em
+man:   Oh, okay. Here's my jacket.
+       ừ, được thôi. Đây là cái áo khoác của anh.
+woman: No, not your jacket. Give me the credit card.
+       không, không phải cái áo khoác của a. Đưa cho e cái thẻ tín dụng ấy
+man:   Really? Don’t you trust me?
+       Thật chứ ? Em không tin anh  à
+woman: No. Let's use that credit card to get dinner for the rest of the group.
+       Không. hãy dùng cái thẻ tín dụng đó mà làm bữa tối cho những người còn lại trong nhóm đi.	
+

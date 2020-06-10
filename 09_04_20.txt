@@ -1,0 +1,50 @@
+Principles of Teamwork
+Nguyên Tắc làm việc nhóm
+1.Division of labor
+  Phân công công việc
+ An ant colony is a complex network of underground chambers in which ants live.
+ Một đàn kiến là một mạng lưới phức tạp của các khoang ngầm trong đó kiến sống.
+
+ Depending on the species, ant colonies can range anywhere in size of less than 2 square inches hosting 100 ants to more than 500 square feet housing up to 7 million ants.
+ Tùy thuộc vào loài, đàn kiến có thể có kích thước bất kì nơi nào dưới 2 inch vuông chứa 100 con kiến đến hơn 500 feet vuông có tới 7 triệu con kiến.
+
+ To help organize the chaos within these colonies, each ant is responsible for specific tasks, whether food gathering, building nests, guarding the colony, or reproduction. These instinctual social rules in which ants organize themselves help ensure the colony's survival.
+ Để giúp tổ chức sự hỗn loạn trong các đàn kiến, mỗi con kiến chịu trách nhiệm cho mỗi nhiệm vụ cụ thể, cho dù đi kiếm thức ăn, xây tổ bảo vệ thuộc địa hoặc sinh sản. Những quy tắc xã hội theo bản năng trong đso kiến tự tổ chức giúp bảo đảm sự tồn tại của thuộc địa
+
+ Applied to a team setting division of labor is about role clarity and how your contributions align with the goals set by the team to ensure its success.
+ Áp dụng cho sự phân chia công việc trong một nhóm là về sự rõ ràng về vai trò và cách đóng góp của bạn phù hợp với các mục tiêu mà nhóm đặt ra để đảm bảo thành công.
+    + As an individual on a team, it is important you take time to self-reflect, understand your weaknesses, invest in your strengths, and leverage your talents towards the success of the team.
+      Là một cá nhân trong một nhóm, điều quan trọng là bạn có thời gian để tự suy ngẫm, hiểu điểm yếu của mình, đầu tư vào điểm mạnh, và tận dụng tài năng của mình để hướng tới thành công của nhóm.
+    + As a manager a team, it is important you understand the strengths of each member, place them in positions to be successful, and clearly communicate their role within the team so there is a consistent understanding of the division of labor.
+      Là một nhóm trưởng trong nhóm, điều quan trọng là bạn hiểu được điểm mạnh của mỗi thành viên, đặt họ vào vị trí hợp lý, và truyền đạt rõ ràng vai trò của họ trong nhóm để có sự hiểu biết nhất quán về phân công công việc.
+ Doing these things will put on a fast track to operational efficiency.
+ Làm những điều này sẽ đạt được một cách nhanh chóng để hiệu quả hoạt động.
+2.Communication
+  Giao tiếp
+ Ants release roughly ten to twenty different pheromones form glands found all over their bodies. These pheromones are used as a means of communication with other ants within the colony.
+ Kiến giải phóng khoảng mười đến hai mươi pheromones khác nhau từ các tuyến được tìm thấy trên khắp cơ thể chúng. Những pheromonoes này đc tìm thấy trên khắp cơ thể chúng
+ This "chemical language" is used to summon ants to defend the colony, find the location of a food source, or warn others of potential danger. In short, understanding these pheromones is critical to the colony's survical.
+ In a team environment, defining a "chemical language" can be challenging given unique personcalities, different communication stykes, technology, and begin part of a distributed team. However, an easy mitigation strategy is to define clear standards and processes for your team to follow.
+ There is also a social aspect to this. like any relationship, you need to nurture and buid personal connections. Check out the examples below as a way to strengthen the bond withing your team: 
+ + Encourage in-person meetings or if using web conferen e software, ensure everyone has their video camera on
+ + Be open minded: Practice positive intent, active listening and empathy 
+ + Get the team together for events outside of work ( happy hour, quarterly team activeties)
+Defining a "chemical language" specific to your organization may help reduce existing communicaion challenges. What best practices will you define as part of your team cuture?
+...
+<từ mời>
+Principles: Nguyên tắc;
+Division: Phân công;
+colony: thuộc địa;
+complex: phức tạp;
+Depending: tùy theo;
+hosting: nhóm người;
+organize (v): tổ chức;
+division: phân công;
+role clarity : vai trò;
+contributions: đóng góp;
+ensure: bề vững , chắc chắn;
+individual: một người, cá nhân;
+leverage: sức manh;
+strengths: sức mạnh;
+Communication:  Giao tiếp;
+
